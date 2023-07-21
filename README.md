@@ -214,6 +214,7 @@ See [OWNERS](OWNERS.md) for details about the maintenance of the project.
 * mlean [Open positions](https://mlean.jobs.personio.com/)
 * MONEI [Open positions](https://monei.com/page/we-are-hiring/)
 * modo [Open positions](https://doc.clickup.com/p/h/4aw7y-533/ff8c70b304156ba/4aw7y-533)
+* MongoDB (View individual job offers to check for remote) [Open positions](https://www.mongodb.com/careers/teams)
 * MURAL [Open positions](https://www.mural.co/careers/open-roles)
 * Neutroon [Open positions](https://www.neutroon.com/career)
 * Nexiona (monthly travels to the HQ in Barcelona) [Open positions](https://angel.co/company/nexiona/jobs)
